@@ -1,0 +1,3 @@
+npm install --save puppeteer jest jest-puppeteer @babel/core @babel/preset-env babel-jest
+
+jest --init
